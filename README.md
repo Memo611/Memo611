@@ -56,7 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Memo611/Memo611/output/snake.svg" alt="Snake animation" />
 
 ###
 
